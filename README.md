@@ -1,6 +1,6 @@
 # About Me:
 
-# Hi, I'm Sadarsan ✨
+# Hello there, I'm Sadarsan ✨
 🧑‍🎓I'm currently a student based in India.  
 🐍Right now, I'm learning Python and practicing beginner scripts to strengthen my programming skills.  
 
