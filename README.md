@@ -5,7 +5,7 @@
 🐍Right now, I'm learning Python and practicing beginner scripts to strengthen my programming skills.  
 
 🛠️This repository is where I share my learning journey — from small coding exercises to projects that
-   help me apply concepts in real-world scenarios.
+   help me apply concepts in real-world scenarios.    
 🧩My goal is to build a strong foundation in programming while exploring problem-solving, math
   applications, and eventually larger software projects.
 
