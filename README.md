@@ -1,4 +1,4 @@
-## About Me:
+# About Me:
 
 # Hi, I'm Sadarsan ✨
 🧑‍🎓I'm currently a student based in India.  
