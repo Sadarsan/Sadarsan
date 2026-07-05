@@ -11,7 +11,7 @@
 
 ## 📬 Contact Me
 
-- 🐙 Instagram: [https://www.instagram.com/intel_i7_np](https://www.instagram.com/intel_i7_np/)
+- 🐙 Instagram: [https://www.instagram.com/sadarsan_i7](https://www.instagram.com/sadarsan_i7/)
 - 🔗 Discord: [https://discordapp.com/users/1113288980121800724](https://discordapp.com/users/1113288980121800724)
 - 📧 Email: sadarsan10@gmail.com
 
